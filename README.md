@@ -66,5 +66,5 @@ http://localhost:5173
 
 ## 🌐 Live Demo
 
-(Deploy using Vercel or GitHub Pages and add link here)
+(https://landing-page-theta-olive-19.vercel.app/)
 
